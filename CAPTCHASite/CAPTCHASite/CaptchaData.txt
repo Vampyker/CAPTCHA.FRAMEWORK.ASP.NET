@@ -1,0 +1,3 @@
+"ID","Description","Success","Total","Ratio"
+"1","Math Captcha","24","47","0.51063829787234"
+"2","Image Captcha","5003","10973","0.455937300647043"
